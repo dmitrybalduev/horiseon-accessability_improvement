@@ -5,4 +5,4 @@
 - Header image 
 - Cards with text and images
 ## **Link to the page**
- 
+ https://dmitrybalduev.github.io/horiseon-accessability_improvement/
