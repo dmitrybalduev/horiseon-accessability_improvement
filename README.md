@@ -1,5 +1,5 @@
 # **Horiseon Webpage**
-**qomplxInsuranceTest** Horiseon is application for Marketing management that helps clients improve their marketing not only in social media but in online searches as well.
+Horiseon is application for Marketing management that helps clients improve their marketing not only in social media but in online searches as well.
 ## **Elements Included:**
 - Navigation bar
 - Header image 
