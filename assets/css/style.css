@@ -3,27 +3,24 @@
     padding: 0;
     margin: 0;
 }
-
+/* setting backgound color for application */
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    color: #d9dcd6;
 }
-
+/* H1 text styling in header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .header-horiseon {
-    color: #d9dcd6;
-}
-
+/* setting navigation menu to the right and add styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,25 +32,25 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-
+/* displaying list of links in line */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* styling all links in application */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* adding effect for links when hovering */
 a:hover{
     text-decoration: underline;
 }
-
+/* setting font size for all paragraph text */
 p {
     font-size: 16px;
 }
-
+/* styling main image */
 .header-image {
     height: 800px;
     width: 100%;
@@ -62,13 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* setting main content of the page to take 75% on the left side */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* setting borders for main sections and background color */
 .sub-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -81,7 +78,7 @@ p {
 .sub-content img {
     max-height: 200px;
 }
-
+/* move img to the left */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -96,7 +93,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Setting aside menu to the right, setting styling and borders */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,13 +114,13 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* displaying images as a block with some spce between by adding margin */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styling footer menu in the bottom */
 .footer {
     padding: 30px;
     clear: both;
